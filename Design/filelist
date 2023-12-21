@@ -1,0 +1,5 @@
+../Design/axi4_lite_Defs.sv
+../Design/axi4_lite_if.sv
+../Design/axi4_lite_top.sv
+../Design/axi4_lite_master.sv
+../Design/axi4_lite_slave.sv
